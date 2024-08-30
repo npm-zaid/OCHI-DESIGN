@@ -1,5 +1,5 @@
 
-import logo from 'C:/Users/zaidr/OneDrive/Desktop/React Js/first_/src/Assets/logo001.svg'
+import logo from 'C:/Users/zaidr/OneDrive/Desktop/React Js/final/src/Assets/logo001.svg'
 import React, { useEffect, useRef ,useState} from 'react'
 import gsap from 'gsap';
 import { useGSAP } from '@gsap/react';

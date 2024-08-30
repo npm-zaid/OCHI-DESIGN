@@ -2,8 +2,8 @@ import React from 'react'
 import Button3 from './Button3'
 import Button1 from './Button1'
 import Table_generator from './Table_generator'
-import pic from 'C:/Users/zaidr/OneDrive/Desktop/React Js/first_/src/Assets/star.png'
-import pic2 from 'C:/Users/zaidr/OneDrive/Desktop/React Js/first_/src/Assets/rating.png'
+import pic from 'C:/Users/zaidr/OneDrive/Desktop/React Js/final/src/Assets/star.png'
+import pic2 from 'C:/Users/zaidr/OneDrive/Desktop/React Js/final/src/Assets/rating.png'
 import { useGSAP } from '@gsap/react'
 import { gsap } from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";

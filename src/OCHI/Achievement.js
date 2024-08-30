@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from 'C:/Users/zaidr/OneDrive/Desktop/React Js/first_/src/Assets/logo001.svg'
+import logo from 'C:/Users/zaidr/OneDrive/Desktop/React Js/final/src/Assets/logo001.svg'
 import Button1 from './Button1'
 
 

@@ -1,6 +1,6 @@
 import React, { useRef, useEffect } from 'react';
 import gsap from 'gsap';
-import pic from 'C:/Users/zaidr/OneDrive/Desktop/React Js/first_/src/Assets/Top-Viewbbcbv-1-scaled.jpg'
+import pic from 'C:/Users/zaidr/OneDrive/Desktop/React Js/final/src/Assets/Top-Viewbbcbv-1-scaled.jpg'
 import Button2 from './Button2';
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 import { useGSAP } from '@gsap/react';

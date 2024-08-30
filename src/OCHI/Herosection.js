@@ -1,5 +1,5 @@
 
-import heropic from 'C:/Users/zaidr/OneDrive/Desktop/React Js/first_/src/Assets/content-image01.jpg'
+import heropic from 'C:/Users/zaidr/OneDrive/Desktop/React Js/final/src/Assets/content-image01.jpg'
 import React, { useEffect, useRef } from 'react';
 import gsap from 'gsap';
 import { useGSAP } from '@gsap/react';

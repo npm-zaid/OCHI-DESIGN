@@ -11,12 +11,12 @@
         
     @font-face {
         font-family:small;
-        src: url("C:/Users/zaidr/OneDrive/Desktop/React Js/first_/src/Assets/Rejouice-Headline.ttf");
+        src: url("C:/Users/zaidr/OneDrive/Desktop/React Js/final/src/Assets/Rejouice-Headline.ttf");
       }
       
       @font-face {
         font-family:'big';
-        src: url("C:/Users/zaidr/OneDrive/Desktop/React Js/first_/src/Assets/FoundersGrotesk-Semibold.woff");
+        src: url("C:/Users/zaidr/OneDrive/Desktop/React Js/final/src/Assets/FoundersGrotesk-Semibold.woff");
       }
 
     body{
