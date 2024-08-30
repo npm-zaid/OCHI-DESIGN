@@ -34,7 +34,7 @@ function App() {
 
     <Routes>
 
-      <Route path="/Ochi" element={<Homepage/>}/>
+      <Route path="/OCHI-DESIGN" element={<Homepage/>}/>
       <Route path="/about" element={<Aboutpage/>}/>
       <Route path="/work" element={<Work/>}/>
       <Route path="/insight" element={<Insight/>}/>

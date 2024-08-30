@@ -62,7 +62,7 @@ stagger:.3
         <Link to="/ochi"><img className='lg:w-24  w-20' src={logo}></img></Link>
         <div className='nav-links  lg:flex gap-10 font-small hidden text-[1.2rem] ml-[250px] text-[#6e6e6f] capitalize'>
           
-        <h5 className='hover:text-[#CDEA68] hover:scale-110 transition-all ease-in-out duration-200 hover:translate-y-2'><Link to = "/Ochi">home</Link></h5>
+        <h5 className='hover:text-[#CDEA68] hover:scale-110 transition-all ease-in-out duration-200 hover:translate-y-2'><Link to = "/OCHI-DESIGN">home</Link></h5>
         <h5 className='hover:text-[#CDEA68] hover:scale-110 transition-all ease-in-out duration-200 hover:translate-y-2'><Link to = "/work">our work</Link></h5>
         <h5 className='hover:text-[#CDEA68] hover:scale-110 transition-all ease-in-out duration-200 hover:translate-y-2'><Link to = "/about">about us</Link></h5>
         <h5 className='hover:text-[#CDEA68] hover:scale-110 transition-all ease-in-out duration-200 hover:translate-y-2'><Link to = "/insight">insight</Link></h5>
@@ -72,7 +72,7 @@ stagger:.3
      
         <div className='lg:hidden sidebar-wrapper absolute bg-[#0000006d] backdrop-blur-lg h-[100vh] translate-x-[100%]  left-0 top-0 w-full '>
           <div className='sidebar-data p-5 text-[#CDEA68] h-[100%]  flex flex-col justify-center gap-5 text-[15vw] font-[600] relative'>
-        <h5 onClick={togglemenu}><Link to = "/Ochi">home</Link></h5>
+        <h5 onClick={togglemenu}><Link to = "/OCHI-DESIGN">home</Link></h5>
         <h5 onClick={togglemenu}><Link to = "/work">our work</Link></h5>
         <h5 onClick={togglemenu}><Link to = "/about">about us</Link></h5>
         <h5 onClick={togglemenu}><Link to = "/insight">insight</Link></h5>
